@@ -1,0 +1,26 @@
+##Application##
+
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <meta name="keyword" content="ctf,flag">
+    <meta name="description" content="flag is cpaw{9216ddf84851f15a46662eb04759d2bebacac666}">
+    <meta name="author" content="takahoyo">
+
+    <title>Capture The Flag</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Custom styles for this template -->
+    <style type="text/css">
+      body {
+        padding-top: 50px;
+        padding-bottom: 20px;
+      
+}
